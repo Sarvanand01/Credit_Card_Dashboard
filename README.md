@@ -1,2 +1,3 @@
 # Credit_Card_Dashboard
 Power BI Dashboard 
+I built an end-to-end Power BI dashboard to transform raw credit-card customer and transaction data into actionable insights. The report consists of five pages—Executive Summary, Customer Demographics, Card Product Analysis, Spending & Transaction Behavior, and Risk & Profitability. It highlights key KPIs such as revenue, transaction trends, satisfaction, spending patterns, product performance, and delinquency risk. Using DAX-based measures, interactive visuals, and drill-down filters, the dashboard enables stakeholders to evaluate customer profiles, card usage behavior, profitability drivers, and risk exposure to support data-driven decision-making.
